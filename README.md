@@ -13,13 +13,13 @@
 A little more about me...  
 
 ```javascript
-const thai = {
+const ayan = {
   currently learning: [React, TypeScript],
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [React, ContextAPI, Node, Styled-Components],
   design: [Figma, Adobe XD, Adobe Illustrator, Keyshot, Fusion360],
   education: {          
-                        university: "Korea Advanced Institute of Science & Technology (KAIST)"
+                        university: "Korea Advanced Institute of Science & Technology (KAIST)",
                         major: "Computer Science",
                         minor: "Industrial Design",
                         level: "Undergraduate 4th year"
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=mukanov8&count_private=true&show_icons=true&hide=prs&include_all_commits=true)](https://github.com/mukanov8/mukanov8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukanov8&langs_count=4line_height=12)](https://github.com/mukanov8/mukanov8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukanov8&langs_count=4line_height=6)](https://github.com/mukanov8/mukanov8)
