@@ -3,11 +3,11 @@
 <p>
    <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  </em>  👨🏻‍🎓 </br>
   
-   <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em> 👨🏻‍💻 </br>
+   <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em>  👨🏻‍💻 </br>
    
-   <em> Currently learning and focusing on Front-end Web development </em> 🖥 </br>
+   <em> Currently learning and focusing on Front-end Web development </em>  🖥 </br>
    
-   <em> Residing in Seoul, South Korea </em> 🇰🇷  </br>
+   <em> Based in Seoul, South Korea </em>  🇰🇷  </br>
 </p>
 
 
