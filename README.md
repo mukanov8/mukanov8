@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mukanov8)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/mukanov8/mukanov8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukanov8&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+</a>
