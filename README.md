@@ -2,17 +2,18 @@
 
 <p>
   <em>
-    Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a> 👨🏻‍🎓
-    </br>
-    Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a> 👨🏻‍💻
-    </br>
-    Currently learning and focusing on Front-end Web development 🖥
-    </br>
-    Residing in Seoul, South Korea 🌏
+    Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a> </br> 👨🏻‍🎓
+    
+    Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </br> 👨🏻‍💻
+   
+    Currently learning and focusing on Front-end Web development </br> 🖥
+   
+    Residing in Seoul, South Korea </br> 🇰🇷 
   </em>
 </p>
 
-A little more about me...  
+### A little more about me...  
+
 
 ```javascript
 const ayan = {
@@ -28,6 +29,11 @@ const ayan = {
                       },
 }
 ```
+### How to reach me 🌏
+
+[![Linkedin: mukanov8](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukanov8/)](https://www.linkedin.com/in/mukanov8/) 
+[![GitHub mukanov8](https://img.shields.io/github/?label=follow&style=social)](https://github.com/mukanov8)
+
 
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
