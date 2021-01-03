@@ -1,4 +1,14 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ayan Mukanov](https://mukanov8.github.io)!
+
+<p>
+  <em>
+    Computer Science and Industrial Design student at <a href="https://www.kaist.ac.kr/en/">KAIST</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+    </br>
+    Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    </br>
+    Currently focusing on Front-end Web development and residing in Seoul, South Korea <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30">  
+  </em>
+</p>
 
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
