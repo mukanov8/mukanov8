@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ayan Mukanov](https://mukanov8.github.io)!
 
 <p>
-   <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  👨🏻‍🎓 </br>
+   <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  </em>  👨🏻‍🎓 </br>
   
    <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em> 👨🏻‍💻 </br>
    
@@ -33,8 +33,12 @@ const ayan = {
 
 [![Linkedin: mukanov8](https://img.shields.io/badge/-mukanov8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukanov8/)](https://www.linkedin.com/in/mukanov8/)
 [![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](<mailto:mukanov.ayan@gmail.com>)
-[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=🌏)](https://mukanov8.github.io/)
+[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=React )](<mailto:mukanov.ayan@gmail.com>)
 [![GitHub](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
+
+https://mukanov8.github.io/
+
+**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
 
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
