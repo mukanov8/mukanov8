@@ -10,6 +10,7 @@
    <em> Residing in Seoul, South Korea </em> 🇰🇷  </br>
 </p>
 
+
 ### A little more about me...  
 
 
@@ -27,14 +28,12 @@ const ayan = {
                       },
 }
 ```
+
 ### How to reach me 🌏
 
 [![Linkedin: mukanov8](https://img.shields.io/badge/-mukanov8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukanov8/)](https://www.linkedin.com/in/mukanov8/)
-
 [![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](<mailto:mukanov.ayan@gmail.com>)
-
-[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=public-24px/svg)](https://mukanov8.github.io/)
-
+[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=🌏)](https://mukanov8.github.io/)
 [![GitHub](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
 
 <!--
