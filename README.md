@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=mukanov8)](https://github.com/mukanov8/mukanov8)
+[![](https://github-readme-stats.vercel.app/api?username=mukanov8&count_private=true)](https://github.com/mukanov8/mukanov8)
 
 <a href="https://github.com/mukanov8/mukanov8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukanov8&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
