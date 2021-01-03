@@ -14,7 +14,7 @@ A little more about me...
 
 ```javascript
 const ayan = {
-  currently learning: [React, TypeScript],
+  learning: [React, TypeScript],
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [React, ContextAPI, Node, Styled-Components],
   design: [Figma, Adobe XD, Adobe Illustrator, Keyshot, Fusion360],
