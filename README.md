@@ -33,7 +33,7 @@ const ayan = {
 
 [![Linkedin: mukanov8](https://img.shields.io/badge/-mukanov8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukanov8/)](https://www.linkedin.com/in/mukanov8/)
 [![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](<mailto:mukanov.ayan@gmail.com>)
-[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=React )](<mailto:mukanov.ayan@gmail.com>)
+[![Website](https://img.shields.io/badge/website-%20-blue?style=social&logo=React )](https://mukanov8.github.io/)
 [![GitHub](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
 
 <!--
