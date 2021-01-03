@@ -33,7 +33,7 @@ const ayan = {
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
 
-[![Email](https://img.shields.io/static/v1?label=Email&message=" "&color=red?style=social&logo=Gmail)[mukanov.ayan@gmail.com]
+[![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](https://mukanov.ayan@gmail.com)
 
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
