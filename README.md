@@ -31,9 +31,11 @@ const ayan = {
 
 [![Linkedin: mukanov8](https://img.shields.io/badge/-mukanov8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukanov8/)](https://www.linkedin.com/in/mukanov8/)
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
+[![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](<mailto:mukanov.ayan@gmail.com>)
 
-[![Email](https://img.shields.io/badge/email-%20-red?style=social&logo=Gmail)](https://mukanov.ayan@gmail.com)
+[![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=public-24px/svg)](https://mukanov8.github.io/)
+
+[![GitHub](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
 
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
