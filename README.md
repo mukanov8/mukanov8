@@ -36,10 +36,6 @@ const ayan = {
 [![Website](https://img.shields.io/badge/website-%20-red?style=social&logo=React )](<mailto:mukanov.ayan@gmail.com>)
 [![GitHub](https://img.shields.io/github/followers/mukanov8?label=follow&style=social)](https://github.com/mukanov8)
 
-https://mukanov8.github.io/
-
-**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
-
 <!--
 **mukanov8/mukanov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
