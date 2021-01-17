@@ -18,7 +18,7 @@
 const ayan = {
   learning: [React, TypeScript],
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
-  tools: [React, Node, Styled-Components],
+  tools: [React, Node.js, Styled-Components],
   design: [Figma, Adobe XD, Adobe Illustrator, Keyshot, Fusion360],
   education: {          
                         university: "Korea Advanced Institute of Science & Technology (KAIST)",
