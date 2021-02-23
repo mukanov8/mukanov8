@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ayan Mukanov](https://mukanov8.github.io)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ayan](https://mukanov8.github.io)!
 
 <p>
    <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  </em>  👨🏻‍🎓 </br>
