@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![](https://github-readme-stats.vercel.app/api?username=mukanov8&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/mukanov8/mukanov8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukanov8&count_private=true&langs_count=4line_height=6)](https://github.com/mukanov8/mukanov8)
 
 
+-->
