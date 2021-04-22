@@ -3,7 +3,7 @@
 <p>
    <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  </em>  👨🏻‍🎓 </br>
   
-   <em> Frontend Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em>  👨🏻‍💻 </br>
+   <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em>  👨🏻‍💻 </br>
    
    <em> Currently learning and focusing on Frontend Web development </em>  🖥 </br>
    
