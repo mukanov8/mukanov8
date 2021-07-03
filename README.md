@@ -3,9 +3,9 @@
 <p>
    <em> Senior Computer Science student at <a href="https://www.kaist.ac.kr/en/">KAIST</a>  </em>  👨🏻‍🎓 </br>
   
-   <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em>  👨🏻‍💻 </br>
+<!--    <em> Software Engineer Intern at <a href="https://pagecall.net/">PPLINK</a>  </em>  👨🏻‍💻 </br> -->
    
-   <em> Currently learning and focusing on Frontend Web development </em>  🖥 </br>
+   <em> Aspiring software engineer and front-end developer </em>  🖥 </br>
    
    <em> Based in Seoul, South Korea </em>  🇰🇷  </br>
 </p>
@@ -16,8 +16,8 @@
 
 ```javascript
 const ayan = {
-  learning: [React, TypeScript],
-  code: [Javascript, Typescript, HTML, CSS, Java, Python],
+  learning: [React, React Native, TypeScript],
+  code&languages: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node.js, Styled-Components],
   design: [Figma, Adobe XD, Adobe Illustrator, Keyshot, Fusion360],
   education: {          
