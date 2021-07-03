@@ -17,7 +17,7 @@
 ```javascript
 const ayan = {
   learning: [React, React Native, TypeScript],
-  code&languages: [Javascript, Typescript, HTML, CSS, Python],
+  code && languages: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node.js, Styled-Components],
   design: [Figma, Adobe XD, Adobe Illustrator, Keyshot, Fusion360],
   education: {          
